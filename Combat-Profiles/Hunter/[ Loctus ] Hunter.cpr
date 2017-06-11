@@ -93,6 +93,14 @@ targethp>70
 level>25
 chance:20
 
+//Bestial Wrath
+castspell:19574
+combatcount>1
+cooldown:120000
+incombat
+targethp>50
+level>39
+
 
 //=====================================================================
 // PET stuff
